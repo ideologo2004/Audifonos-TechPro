@@ -417,7 +417,18 @@ height: 85vh;
   .news{
     margin-top: 1rem;
     width: 100%;
+    height: 25rem;
   }
+
+.newsletter-content{
+  height: 100%;
+  
+  margin-top: -5rem;
+}
+
+.newsletter-form{
+  
+}
 
 
 }
