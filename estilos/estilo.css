@@ -363,9 +363,14 @@ height: 85vh;
   }
 
   .foto{
-    justify-content: center;
-    width: 100%;
+    width: 98%;
+    margin-left: 0.3rem;
+    margin-top: 5.9rem;
   }
+
+  .eñorita{
+    width: 100%;
+    height: 20rem;
 
   .choose-techpro{
     flex-direction: column;
@@ -411,13 +416,13 @@ height: 85vh;
 
 
   .newsletter-image{
-    width: 95%;
+    width: 85%;
   }
 
   .news{
     margin-top: 1rem;
     width: 100%;
-    height: 25rem;
+    height: 20rem;
   }
 
 .newsletter-content{
@@ -425,10 +430,5 @@ height: 85vh;
   
   margin-top: -5rem;
 }
-
-.newsletter-form{
-  
-}
-
 
 }
