@@ -374,9 +374,7 @@ height: 85vh;
   }
 
   .foto{
-    width: 98%;
-    margin-left: 0.3rem;
-
+    width: 100%;
   }
 
   .eñorita{
@@ -438,12 +436,13 @@ height: 85vh;
 
 
   .newsletter-image{
-    width: 85%;
+    width: 100%;
   }
 
   .news{
     margin-top: 2rem;
     height: 20rem;
+    margin-bottom: 1rem;
   }
 
 .newsletter-content{
