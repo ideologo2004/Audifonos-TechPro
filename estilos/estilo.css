@@ -337,11 +337,17 @@ height: 85vh;
 
 @media (max-width: 480px) {
   .datos-enc{
-    width: 100;
+    width: 100%;
+    height: 51rem;
     flex-direction: column;
   }
-  .texto-enc{
-    padding: 1rem;
+  h1{
+    font-size: 60px;
+    margin-top: -1rem;
+  }
+
+  .text{
+    margin-top: -0.5rem;
   }
 
   .img-enc{
@@ -362,10 +368,15 @@ height: 85vh;
     height: 20rem;
   }
 
+  .sobrelos{
+    width: 100%;
+    height: 20rem;
+  }
+
   .foto{
     width: 98%;
     margin-left: 0.3rem;
-    margin-top: 5.9rem;
+
   }
 
   .eñorita{
