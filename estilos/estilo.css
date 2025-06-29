@@ -442,13 +442,16 @@ height: 85vh;
   .news{
     margin-top: 2rem;
     height: 20rem;
-    margin-bottom: 1rem;
+  }
+
+  .newsletter-image{
+    margin-bottom: -15rem;
   }
 
 .newsletter-content{
   width: 80%;
   
-  margin-top: -15rem;
+  margin-top: -15re;
 }
 
 }
