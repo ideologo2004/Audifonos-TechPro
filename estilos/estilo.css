@@ -397,6 +397,15 @@ height: 85vh;
     width: 100%;
   }
 
+  .product-card.light{
+     width: 100%;
+    height: 30vh;
+  }
+
+  .tech{
+    width: 10rem;
+  }
+
   .product-card.dark{
     width: 100%;
     height: 90vh;
