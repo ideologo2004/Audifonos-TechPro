@@ -447,9 +447,9 @@ height: 85vh;
   }
 
 .newsletter-content{
-  height: 100%;
+  width: 95%;
   
-  margin-top: -12rem;
+  margin-top: -15rem;
 }
 
 }
